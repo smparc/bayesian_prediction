@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# Generated CPT file
+scdb_cpts.pkl
+
+# Data - Data files should not be in Git
+*.csv
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
